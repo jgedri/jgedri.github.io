@@ -1,7 +1,7 @@
 ## Welcome to my world(s)
 
+Hello. I'm a writer hoping to get his words out there. I chose the name 'jgedri' since J is my initial and "Gedri" refers to humans, or the "silent people". See Elizabeth Kerner's novels for the whole story.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
